@@ -4,4 +4,4 @@
 
 al waseet is a F&B and hospitality IT solution that provides seamless dine-in ordering experience for your guests. Focus on your operations, while we take care of your customers' orders.
 
-Platform is launching in the end of 2022.
+Platform is launching in December, 2022.
