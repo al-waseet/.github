@@ -1,4 +1,4 @@
-![al waseet Banner. It consists of the title "al waseet" written in English and smaller Arabic script. The font color is white over the pink, purple and cyan graident](./al waseet Banner.jpg.jpg?raw=true "Title")
+![al waseet Banner. It consists of the title "al waseet" written in English and smaller Arabic script. The font color is white over the pink, purple and cyan graident](./al waseet Banner.jpg?raw=true "Title")
 
 # al waseet: Dine-in Redefined
 
